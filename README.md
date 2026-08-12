@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <title>Quiz para programadores</title>
+  <title>Quiz para programadores profissionais</title>
   <meta name="description" content="Um quiz interativo para testar seus conhecimentos">
 </head>
 <body>
