@@ -20,7 +20,7 @@
     </section>
     <!--Pergunta 1: Multipla escolha-->
     <section>
-      <h2>Pergunta 1: Qual linguagem e usada para estruturar paginas web?</h2>
+      <h2>Pergunta 1: Qual linguagem é usada para estruturar paginas web?</h2>
       <form>
         <input type="radio" value="Python" id="p1a" name="pergunta1">
         <label for="p1a">Python</label><br>
